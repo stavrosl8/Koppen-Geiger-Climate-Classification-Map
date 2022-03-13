@@ -7,7 +7,7 @@
 
 ## Data Requirements
 
-### The Koppen-Geiger climate classification system data at 0.5x0.5 spatial resolution can easily be downloaded from: http://koeppen-geiger.vu-wien.ac.at/present.htm
+### The Koppen-Geiger climate classification system data at 0.5°x0.5° spatial resolution can easily be downloaded from: http://koeppen-geiger.vu-wien.ac.at/present.htm
 ### The shape file used in the code can be easily be downloaded from: https://gadm.org/data.html
 
 ## Examples
