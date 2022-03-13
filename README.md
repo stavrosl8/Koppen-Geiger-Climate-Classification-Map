@@ -13,4 +13,4 @@ Koppen-Geiger-Climate-Classification-Map
 ## Examples
 ### Worldwide map for fine climate resolution
 
-![Fine](.Examples/Fine_Resolution.png)
+![Fine](.Examples/Europe.png)
