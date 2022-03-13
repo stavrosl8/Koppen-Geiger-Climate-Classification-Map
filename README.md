@@ -1,4 +1,4 @@
-#Koppen-Geiger-Climate-Classification-Map
+Koppen-Geiger-Climate-Classification-Map
 
 ## The code provides regionally and globally maps of KOPPEN-GEIGER climate classification scheme.
 ## The maps are divided into two categories:
@@ -13,4 +13,4 @@
 # Examples
 ## Worldwide map for fine climate resolution
 
-![Koppen classification](.github/Fine Resolution.png)
+![Koppen classification](.Koppen-Geiger-Climate-Classification-Map/Fine Resolution.png)
