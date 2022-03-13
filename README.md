@@ -13,4 +13,4 @@ Koppen-Geiger-Climate-Classification-Map
 # Examples
 ## Worldwide map for fine climate resolution
 
-![Koppen classification](.Koppen-Geiger-Climate-Classification-Map/Fine Resolution.png)
+![](stavrosl8/Koppen-Geiger-Climate-Classification-Map/Fine Resolution.png)
