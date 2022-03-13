@@ -34,7 +34,7 @@ def KG_plot (ds, cmap, bounds, bounds_ticks, Domain, Region):
         
         plt.title(Region + ' Map of the Köppen−Geiger Climate Classification',
                   y=1.05, fontweight="bold",fontsize = 18)
-        plt.savefig('KG.png', dpi = 150)
+        plt.savefig('KG.png', dpi = 150, bbox_inches = "tight")
         plt.close()
 
 def KG (Data, Domain, Resolution='Fine', Region='World'):
