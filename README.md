@@ -1,4 +1,4 @@
-### The code provides regionally and globally maps of KOPPEN-GEIGER climate classification scheme.
+### The code provides regionally and globally maps of Koppen-Geiger climate classification scheme.
 ### The maps are divided into two categories:
 * Fine resolution including all 32 climate classes
 * Coarse resolution including the 5 mains climate classes
