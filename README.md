@@ -1,6 +1,3 @@
-
-##Koppen-Geiger-Climate-Classification-Map
-
 ### The code provides regionally and globally maps of KOPPEN-GEIGER climate classification scheme.
 ### The maps are divided into two categories:
 * Fine resolution including all 32 climate classes
